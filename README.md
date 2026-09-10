@@ -45,13 +45,7 @@ $$
 and conditional variance
 
 $$
-\sigma_t^2
-=
-\omega
-+
-\beta \sigma_{t-1}^2
-+
-\alpha \epsilon_{t-1}^2
+\sigma_t^2 = \omega + \beta \sigma_{t-1}^2 + \alpha \epsilon_{t-1}^2
 $$
 
 The persistence of volatility shocks is determined by
@@ -91,13 +85,7 @@ $$
 The latent log-volatility follows an AR(1) process:
 
 $$
-h_{t+1}
-=
-\mu
-+
-\phi(h_t-\mu)
-+
-\eta_t,
+h_{t+1} = \mu + \phi(h_t-\mu) + \eta_t,
 $$
 
 where
