@@ -49,9 +49,9 @@ $$
 =
 \omega
 +
-\beta\sigma_{t-1}^2
+\beta \sigma_{t-1}^2
 +
-\alpha\epsilon_{t-1}^2.
+\alpha \epsilon_{t-1}^2
 $$
 
 The persistence of volatility shocks is determined by
